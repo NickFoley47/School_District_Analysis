@@ -18,12 +18,15 @@ Old District Summary:
 New District Summary: 
 ![New_dist_sum](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/New_dist_sum.PNG)
 
--The school summary had some major changes when we replaced the 9th grader scores for math and reading. The % passing math dropped from 93.27% to 66.91%. The % passing reading dropped from 97.30% to 69.66%. 
+- The school summary had some major changes when we replaced the 9th grader scores for math and reading. The % passing math dropped from 93.27% to 66.91%. The % passing reading dropped from 97.30% to 69.66%. 
+
 Old School Summary:
 ![per_school_sum_older_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_older_old_data.PNG)
+
 New School Summary: 
 ![per_school_sum_new_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_old_data.PNG)
--Replacing the 9th graders scores and only then only counting 10th – 12th grade did not affect the test scores as much when we still included Nans in the data. The average math score changed from 83.41 to 83.35. The average reading score changed from 83.84 to 84.89. Thomas high School had an 90.63% overall passing after removing the 9th grader data which brought it up from the 65.07% overall passing when we included the 9th graders Nans in the data. 
+- Replacing the 9th graders scores and only then only counting 10th – 12th grade did not affect the test scores as much when we still included Nans in the data. The average math score changed from 83.41 to 83.35. The average reading score changed from 83.84 to 84.89. Thomas high School had an 90.63% overall passing after removing the 9th grader data which brought it up from the 65.07% overall passing when we included the 9th graders Nans in the data. 
+
 Thomas High School Performance updated with grades 10th–12th:
 ![per_school_sum_new_new_data1](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_new_data1.PNG)
 
