@@ -38,9 +38,11 @@ Thomas High School Performance updated with grades 10th–12th:
 - The math and reading scores were updated with NaN since the 9th grade data was altered and thus 9th grade data for Thomas High School was removed.
 
 Math grades by grade:
+
 ![math_grades_by_grade1](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/math_grades_by_grade1.PNG)
 
 Reading grades by grade:
+
 ![reading_grades_by_grade](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/reading_grades_by_grade.PNG)
 
 - The scores by school spending have had no change. They are still students thus the spending would remain the same for the 9th graders.
