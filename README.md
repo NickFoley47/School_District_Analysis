@@ -22,23 +22,31 @@ Old District Summary:
 New District Summary: 
 ![New_dist_sum](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/New_dist_sum.PNG)
 
--The school summary had some major changes when we replaced the 9th grader scores for math and reading. The % passing math dropped from 93.27% to 66.91%. The % passing reading dropped from 97.30% to 69.66%. 
+-The school summary had some major changes when we replaced the 9th grader scores for math and reading. The % passing math dropped from 93.27% to 66.91%. The % passing reading dropped from 97.30% to 69.66%.
+
 Old School Summary:
 ![per_school_sum_older_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_older_old_data.PNG)
+
 New School Summary: 
 ![per_school_sum_new_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_old_data.PNG)
 -Replacing the 9th graders scores and only then only counting 10th – 12th grade did not affect the test scores as much when we still included Nans in the data. The average math score changed from 83.41 to 83.35. The average reading score changed from 83.84 to 84.89. Thomas high School had an 90.63% overall passing after removing the 9th grader data which brought it up from the 65.07% overall passing when we included the 9th graders Nans in the data. 
+
 Thomas High School Performance updated with grades 10th–12th:
 ![per_school_sum_new_new_data1](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_new_data1.PNG)
 
  The effect of replacing 9th grade scores: 
 - The math and reading scores were updated with NaN since the 9th grade data was altered and thus 9th grade data for Thomas High School was removed.
+- 
 Math grades by grade:
 ![math_grades_by_grade1](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/math_grades_by_grade1.PNG)
+
 Reading grades by grade:
 ![reading_grades_by_grade](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/reading_grades_by_grade.PNG)
+
 -The scores by school spending have had no change. They are still students thus the spending would remain the same for the 9th graders.
+
 -The scores by school size have had very small changes. Due to the 9th graders not being counted. This change was so small, when we formatted our data the difference was eliminated. 
+
 ![scores_by_school_size_new](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/scores_by_school_size_new.PNG)
 
 - The scores by school type have had a very small change since the scores of the 9th graders were nulled due to data altering. The difference is so small when the formatting is fixed. The difference is eliminated. 
