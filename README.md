@@ -4,7 +4,7 @@
 The purpose of this school data audit was the school board discovered evidence of academic dishonestly. Thomas High School ninth graders reading, and math grades have been altered.  The school board has asked us to replace the math and reading scores for Thomas High School with Nans while we kept the rest for the data intact. 
 	
 ## Results
-The analysis of the school district data presents:
+
 ### How is the district summary affected? 
 The average math scored changed from 78.9 to 79.0 in the new school district summary. The average reading score stayed the same. The % passing math change from 74.8% to 75%. The % passing reading change from 85.7% to 86%. The % overall passing changed from 64.95 to 65%. These changes were small but noticeable. 
 
