@@ -15,8 +15,10 @@ New District Summary:
 
 ### How is the school summary affected?
 The school summary had some major changes when we replaced the 9th grader scores for math and reading. The % passing math dropped from 93.27% to 66.91%. The % passing reading dropped from 97.30% to 69.66%.
+
 Old School Summary:
 ![per_school_sum_older_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_older_old_data.PNG)
+
 New School Summary: 
 ![per_school_sum_new_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_old_data.PNG)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
