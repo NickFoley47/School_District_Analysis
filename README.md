@@ -5,6 +5,7 @@ The purpose of the school data audit was to evaluate whether purported academic 
 
 ## Resources
 -Data Source: schools_complete.csv, students_complete.csv
+
 -Software: Jupyter, Python 3.6.1
 	
 ## Results
