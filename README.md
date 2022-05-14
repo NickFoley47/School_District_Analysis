@@ -4,9 +4,9 @@
 The purpose of the school data audit was to evaluate whether purported academic dishonesty among Thomas High School impacted the results of the original analysis of the school district. The school board has asked us to replace the math and reading scores for Thomas High School with NaN (not a number) while we kept the rest of the data intact. 
 
 ## Resources
--Data Source: schools_complete.csv, students_complete.csv
+- Data Source: schools_complete.csv, students_complete.csv
 
--Software: Jupyter, Python 3.6.1
+- Software: Jupyter, Python 3.6.1
 	
 ## Results
 
