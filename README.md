@@ -9,7 +9,10 @@ The purpose of the school data audit was to evaluate whether purported academic 
 -Software: Jupyter, Python 3.6.1
 	
 ## Results
--The average math scored changed from 78.9 to 79.0 in the new school district summary. The average reading score stayed the same. The % passing math change from 74.8% to 75%. The % passing reading change from 85.7% to 86%. The % overall passing changed from 64.95 to 65%. These changes were small but noticeable. 
+
+Analyzing the Data:
+	-The average math scored changed from 78.9 to 79.0 in the new school district summary. The average reading score stayed the same. The % passing math change from 74.8% to 75%. The % passing reading change from 85.7% to 86%. The % overall passing changed from 64.95 to 65%. These changes were small but noticeable. 
+
 Old District Summary: 
 ![Old_dist_sum](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/Old_dist_sum.PNG)
 New District Summary: 
