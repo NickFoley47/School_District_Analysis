@@ -22,7 +22,8 @@ Old School Summary:
 New School Summary: 
 ![per_school_sum_new_old_data](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_old_data.PNG)
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing the 9th graders scores and only then only counting 10th – 12th grade did not affect the test scores as much when we still included Nans in the data. The average math score changed from 83.41 to 83.35. The average reading score changed from 83.84 to 84.89.
+Replacing the 9th graders scores and only then only counting 10th – 12th grade did not affect the test scores as much when we still included Nans in the data. The average math score changed from 83.41 to 83.35. The average reading score changed from 83.84 to 84.89. Thomas high School had an 9063% overall passing after removing the 9th grader data.
+
 ![per_school_sum_new_new_data1](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/per_school_sum_new_new_data1.PNG)
 
 
