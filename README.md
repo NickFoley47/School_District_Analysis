@@ -10,6 +10,7 @@ The average math scored changed from 78.9 to 79.0 in the new school district sum
 
 Old District Summary: 
 ![Old_dist_sum](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/Old_dist_sum.PNG)
+
 New District Summary: 
 ![New_dist_sum](https://github.com/NickFoley47/School_District_Analysis/blob/main/Resources/New_dist_sum.PNG)
 
